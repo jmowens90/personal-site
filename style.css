@@ -68,6 +68,11 @@ main{
   float: right;
 }
 
-.about-images {
+.images {
   height: 150px;
+}
+
+.portfolio-section{
+  color: 71b340;
+  background-color: 11270b;
 }
